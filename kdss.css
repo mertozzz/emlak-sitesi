@@ -1,0 +1,199 @@
+<style>
+			
+			pre.p1 {
+				font-family:minion pro;
+				font-size:17px;
+				background-color:#333333;
+				border:2px solid white;
+				border-radius:12px;
+				 position:absolute;
+				left:0px;
+				width:450px;
+				top:1150px;
+				height:400px;
+				opacity:0.60;
+				}
+			pre.p2 {
+				font-family: minion pro;
+				font-size: 17px;
+				background-color:#333333;
+				border: 2px solid white;
+				border-radius: 12px;
+				 position: absolute;
+				left: 457px;
+				width: 450px;
+				top:1150px;
+				height:400px;
+				opacity:0.60;
+				
+					}
+			pre.p3 {
+				font-family: minion pro;
+				font-size: 16px;
+				background-color:#333333;
+				border: 2px solid white;
+				border-radius: 12px;
+				position: absolute;
+				left: 915px;
+				width: 430px;
+				top:1145px;
+				height:400px;
+				opacity:0.60;
+				
+					}
+		    body{
+			background-image: url("doğal.jpg");
+			background-repeat:no-repeat;
+			background-position: 300px 10px;
+			background-size:1059px 311px;
+			background-top:10px;
+			
+			
+			}
+			img.logo{
+				position: absolute;
+				top: 10px;
+				left:1px;
+				}
+			img.conceptcar5{
+				position: absolute;
+				top: 326px;
+				left: 0px;
+				right:0px;
+				width:1349px;
+				height:500px;
+				}
+			
+			ul.ul1 {
+				list-style-type: none;
+				margin: 0;
+				padding: 5px;
+				overflow: hidden;
+				background-color:none;
+				margin-left:0px;
+				margin-right:0px;
+				position: absolute;
+				top: 257px;
+				left: 300px;
+				right:0px;
+				text-decoration: none;
+				font-size:20px;
+				font-family: minion pro bold;
+				
+				
+			}
+
+			li {
+				float: left;
+				}
+
+			li a {
+					display: block;
+					color: white;
+					text-align: center;
+					padding: 16px;
+					text-decoration: none;
+					}
+
+			li a:hover {
+					background-color: white;
+						}
+				
+			h1{position: absolute;
+				top: 150px;
+				left: 550px;
+				font-size:70px;
+				}
+			h2.a{position: absolute;
+				top: 1200px;
+				left: 36px;
+				font-size:20px;
+				}
+			h2.b{position: absolute;
+				top: 1200px;
+				left: 530px;
+				font-size:20px;
+				}
+			h2.c{position: absolute;
+				top: 1200px;
+				left: 1000px;
+				font-size:20px;
+				}
+			form.form1{position: absolute;
+				top:930px;
+				left:0;
+				right:0;
+				
+				
+				
+			}
+			img.mySlides{
+			position:absolute;
+			top:370px;
+			width:1349px;
+			height:500px;
+			
+			}
+			button.slide{
+			position:absolute;
+			top:560px;
+			left:20px;
+			}
+			button.slide2{
+			position:absolute;
+			top:550px;
+			left:1320px;
+			}
+			h2.w3-center{
+			position:absolute;
+			color:grey;
+			top:330px;
+			left:10px;}
+			h2.konutvitrini{
+			position:absolute;
+			color:grey;
+			top:1100px;
+			left:10px;
+			}
+			h2.konutarama{
+			position:absolute;
+			color:grey;
+			top:890px;
+			left:10px;}
+			img.aga{
+			position:absolute;
+			width:300px;
+			height:150px;
+			top:1180px;
+			left:525px;}
+			img.nef{
+			position:absolute;
+			width:300px;
+			height:150px;
+			top:1180px;
+			left:70px;}
+			img.mahall{
+			position:absolute;
+			width:300px;
+			height:150px;
+			top:1180px;
+			left:970px;
+			}
+			form.form2{
+			position:absolute;
+			top:1010px;
+			left:250px;
+			right:0px;}
+			form.form3{
+			position:absolute;
+			top:961px;
+			left:250px;
+			right:0px;}
+		
+			
+			
+			
+
+
+</style>
+	
